@@ -1,6 +1,6 @@
 {
   "name": "react-gate-hoc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "higher-order react component that passes props only when the gate is open",
   "main": "lib/Gate.js",
   "scripts": {
