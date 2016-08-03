@@ -20,6 +20,10 @@
     "hoc",
     "gate"
   ],
+  "files": [
+    "lib",
+    "src"
+  ],
   "author": "Daniel Lindenkreuz",
   "license": "MIT",
   "bugs": {
